@@ -1,4 +1,4 @@
-<h2>TFCounter: Polishing Gems for Train-Free Object Counting </h2>
+<h2>TFCounter: Polishing Gems for Training-Free Object Counting </h2>
 
 ![Example Image](images/TFCounter.png)
 
