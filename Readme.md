@@ -1,3 +1,8 @@
+<h2>TFCounter: Polishing Gems for Train-Free Object Counting </h2>
+
+![Example Image](images/TFCounter.png)
+
+
 <h2> Installation </h2>
 1. The code requires python>=3.8, as well as pytorch>=1.7 and torchvision>=0.8. <br>
 2. Please follow the instructions <a href="https://pytorch.org/get-started/locally/" target="_blank">here</a> to install both PyTorch and TorchVision dependencies. <br>
@@ -24,6 +29,18 @@ or
 ```
 python main-bike.py --test-split='test' --prompt-type='box' --device='cuda:0'
 ```
+
+<h2> BIKE-1000 Dataset </h2>
+
+![Example Image](images/Few-annotated-images-from-the-dataset.png)
+
+
+
+<h2> Qualitative Results </h2>
+
+![Example Image](images/Qualitative-Results.png)
+
+
 
 <h2> Acknowledgment </h2>
 We express our sincere gratitude to the brilliant minds behind <a href="https://github.com/facebookresearch/segment-anything" target="_blank">SAM</a> and <a href="https://github.com/shizenglin/training-free-object-counter" target="_blank">SAM-Free</a>, as our code builds upon theirs. 
