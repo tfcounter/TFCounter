@@ -40,6 +40,10 @@ python main-bike.py --test-split='test' --prompt-type='box' --device='cuda:0'
 
 ![Example Image](images/Qualitative-Results.png)
 
+<h2> Quantitative Results </h2>
+
+![Example Image](images/Quantitative-comparison.png)
+
 
 
 <h2> Acknowledgment </h2>
