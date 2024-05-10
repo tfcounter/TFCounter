@@ -11,7 +11,7 @@
 
 <h2> Getting Started </h2>
 1. Download the <a href="https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth" target="_blank">'vit_b'</a> pre-trained model of SAM and save it to the folder 'pretrain'. <br>
-2. Download the <a href="https://drive.google.com/file/d/1ymDYrGs9DSRicfZbSCDiOu0ikGDh5k6S/view?usp=sharing" target="_blank">FSC-147</a> and <a href="https://drive.google.com/file/d/0BwSzgS8Mm48Ud2h2dW40Wko3a1E/view?usp=sharing&resourcekey=0-34K_uP-vYM7EWq0Q2iIVaw" target="_blank">CARPK</a> datasets and save them to the folder 'dataset' <br>
+2. Download the <a href="https://drive.google.com/file/d/1QbaJdwpS3GfnjZBaUkEHqnTbAQeIA0Im/view?usp=drive_link" target="_blank">FSC-147</a> and <a href="https://drive.google.com/file/d/1NhIEza_vsrQ0HPZFM9byhXKvEH6wsNrg/view?usp=drive_link" target="_blank">CARPK</a> datasets and save them to the folder 'dataset' <br>
 3. Run 
 
 
